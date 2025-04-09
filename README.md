@@ -4,10 +4,10 @@ Ever wondered how AI sees the world? 🌍 This project is an AI-powered Image Ca
 
 Built using the Google Gemini Pro Vision API, this app combines the power of multimodal AI and a clean Gradio UI to deliver quick, creative image captions.
 
-🚀 Demo
-🔗 Live Demo: Click here to try it out!
+# 🚀 Demo
+🔗 Live Demo: https://huggingface.co/spaces/shivaharinee/Image_Caption_Generator
 
-🎯 Features
+# Features
 Upload any image
 
 AI analyzes visual content using Gemini Vision
@@ -16,7 +16,7 @@ Returns a catchy social media-ready caption
 
 Simple and intuitive web UI
 
-🛠️ Tech Stack
+# 🛠️ Tech Stack
 🐍 Python
 
 🤖 Google Gemini Pro Vision API
@@ -25,7 +25,7 @@ Simple and intuitive web UI
 
 🖼️ Pillow (PIL) – for image handling
 
-📸 How It Works
+# 📸 How It Works
 Upload an image through the Gradio interface.
 
 The app sends the image and prompt to the Gemini Vision model.
@@ -34,8 +34,7 @@ The AI returns a detailed and catchy caption.
 
 Copy and paste your caption into your favorite social media app!
 
-💡 Learning Outcome
-This project helped me:
+# 💡 Learning Outcome
 
 Explore the power of multimodal AI using Google Gemini
 
